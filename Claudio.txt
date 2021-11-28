@@ -1,2 +1,3 @@
 Ciao, sono Claudio. Sono arrivato da poco!
 Aggiungo un'importante nota sul master.
+E un'altra per il release.1.0 branch.

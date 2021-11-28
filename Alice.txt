@@ -1,2 +1,2 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+Hi! I'm Alice. I'm a file someone added to this repository a while ago. (Aggiungo la mia nota)
 Ora io aggiungo la mia linea sul branch release.1.0.

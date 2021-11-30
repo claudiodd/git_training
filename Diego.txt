@@ -1,1 +1,2 @@
 Sono Diego e sono nuovo, arrivo dal branch.
+Ecco una nuova riga.

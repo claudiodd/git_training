@@ -1,3 +1,10 @@
 Ciao, sono Claudio. Sono ormai da un po'!
 Aggiungo un'importante nota sul master.
 Aggiungo da GitHub su master.
+
+
+
+Inizio a implementare la mia nuova feature.
+Vediamo come va.
+Introduco un baco...
+

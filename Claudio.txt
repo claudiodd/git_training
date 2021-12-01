@@ -6,5 +6,5 @@ Aggiungo da GitHub su master.
 
 Inizio a implementare la mia nuova feature.
 Vediamo come va.
-Introduco un baco...
+Introduco un baco... e lo fisso da GitHub.
 

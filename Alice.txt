@@ -3,4 +3,5 @@ Ora io aggiungo la mia linea sul branch release.1.0.
 
 
 Lo sviluppo della nuova feature riguarda anche questo file.
+Introduco la nuova implementazione nel feature branch.
 

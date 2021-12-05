@@ -8,3 +8,5 @@ Inizio a implementare la mia nuova feature.
 E' stata completata.
 Introduco un baco... e lo fisso da GitHub.
 
+
+Nuove feature modificano Claudio....

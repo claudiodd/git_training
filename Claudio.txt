@@ -9,4 +9,5 @@ E' stata completata.
 Introduco un baco... e lo fisso da GitHub.
 
 
-Nuove feature modificano Claudio....
+Nuove feature modificano Claudio.
+Aggiunte successive....

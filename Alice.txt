@@ -13,4 +13,6 @@ Qualcuno ha sviluppato qualcosa e io devo integrarla sul mio branch prima di far
 
 Aggiungo nel branch MYPROJ006.
 Parte 1/2
+Parte 2/2
+
 

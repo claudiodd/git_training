@@ -10,4 +10,6 @@ Introduco un baco... e lo fisso da GitHub.
 
 
 Nuove feature modificano Claudio.
-Aggiunte successive....
+Aggiunte successive.
+Pushate da qualcuno sul master.
+

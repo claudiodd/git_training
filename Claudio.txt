@@ -13,3 +13,7 @@ Nuove feature modificano Claudio.
 Aggiunte successive.
 Pushate da qualcuno sul master.
 
+
+
+Aggiungo nel master.
+

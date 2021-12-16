@@ -8,7 +8,7 @@ Introduco la nuova implementazione nel feature branch.
 
 
 Qualcuno ha sviluppato qualcosa e io devo integrarla sul mio branch prima di fare il push...
-
+Inserisco una modifica localmente e non faccio il push.
 
 
 Aggiungo nel branch MYPROJ006.

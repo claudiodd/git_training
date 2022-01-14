@@ -1,0 +1,4 @@
+Localization files
+
+HOME=home
+SUN=sole

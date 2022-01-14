@@ -2,3 +2,5 @@ Localization files
 
 HOME=casa
 SUN=sole
+MOON=moon
+STAR=star

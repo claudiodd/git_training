@@ -1,4 +1,4 @@
 Localization files
 
-HOME=home
+HOME=casa
 SUN=sole

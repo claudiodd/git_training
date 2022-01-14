@@ -5,3 +5,5 @@ SUN=sole
 MOON=luna
 STAR=stella
 TREE=albero
+CAR=car
+

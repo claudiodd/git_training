@@ -7,3 +7,7 @@ E lo modifico sul master successivamente.
 Poi lavoro ancora su un branch...
 Aggiungo nel branch MYPROJ006.
 
+
+
+Master goes on (1)
+

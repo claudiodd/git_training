@@ -6,5 +6,5 @@ MOON=luna
 STAR=stella
 TREE=albero
 CAR=automobile
-MAN=man
+MAN=uomo
 

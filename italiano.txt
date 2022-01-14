@@ -4,3 +4,4 @@ HOME=casa
 SUN=sole
 MOON=luna
 STAR=stella
+TREE=albero

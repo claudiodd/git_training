@@ -1,15 +1,3 @@
 Aggiungo il file Diego in un feature branch.
 
-
-
-E lo modifico sul master successivamente.
-
-Poi lavoro ancora su un branch...
-Aggiungo nel branch MYPROJ006.
-
-
-
-Master goes on (1)
-Master goes on (2)
-Master goes on (3)
-
+PULISCO IL FILE

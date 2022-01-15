@@ -5,3 +5,5 @@ PULISCO IL FILE
 Master goes on (1)
 
 Master goes on (2)
+
+Add a line in release 1.0

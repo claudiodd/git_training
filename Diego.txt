@@ -3,3 +3,5 @@ Aggiungo il file Diego in un feature branch.
 PULISCO IL FILE
 
 Master goes on master (1)
+
+Change Diego from Branch and it is ok.

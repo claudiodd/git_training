@@ -1,21 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. (Aggiungo la mia nota)
-Ora io aggiungo la mia linea sul branch release.1.0.
 
+PULISCO IL FILE
 
-Lo sviluppo della nuova feature riguarda anche questo file.
-Introduco la nuova implementazione nel feature branch.
+Master goes on (1)
 
-
-
-Qualcuno ha sviluppato qualcosa e io devo integrarla sul mio branch prima di fare il push...
-Inserisco una modifica localmente e non faccio il push.
-E poi ripeto la stessa operazione... due volte.
-
-Aggiungo nel branch MYPROJ006.
-Parte 1/2
-Parte 2/2
-
-
-Aggiungo nuovo codice da remoto.
-E lo midifico ulteriormente.
-E infine una terza volta.
+Master goes on (2)

@@ -7,4 +7,5 @@ STAR=stella
 TREE=albero
 CAR=automobile
 MAN=uomo
+WOMAN=woman
 

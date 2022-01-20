@@ -8,6 +8,6 @@ TREE=albero
 CAR=automobile
 MAN=uomo
 WOMAN=donna
-BOY=boy
-GIRL=girl
+BOY=ragazzo
+GIRL=ragazza
 
